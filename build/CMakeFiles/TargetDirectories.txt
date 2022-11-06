@@ -1,0 +1,6 @@
+C:/Users/Wiver/Desktop/hola-mundo/build/CMakeFiles/tutorial.dir
+C:/Users/Wiver/Desktop/hola-mundo/build/CMakeFiles/edit_cache.dir
+C:/Users/Wiver/Desktop/hola-mundo/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Wiver/Desktop/hola-mundo/build/glad/CMakeFiles/glad.dir
+C:/Users/Wiver/Desktop/hola-mundo/build/glad/CMakeFiles/edit_cache.dir
+C:/Users/Wiver/Desktop/hola-mundo/build/glad/CMakeFiles/rebuild_cache.dir
